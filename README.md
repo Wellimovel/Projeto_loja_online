@@ -1,2 +1,2 @@
-# Projeto_loja_online
+# WellingtonPontes
 Este projeto simula uma loja virtual.
