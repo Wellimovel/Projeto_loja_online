@@ -1,6 +1,15 @@
 @@@ Hello!
+Olá! Sou Wellington e trabalho no Mercado Livre como OPSIII. Minha meta e objetivo é ingressar na área de programação. 
+Conhecimentos em:
+JavaScript
+ReactJS
+PHP
+Laravel
+Docker
+Estudando Go Lang
 
 💻 I'm currently working at Mercado Livre.
+👨‍💻 Frontend developer.
 👨‍💻 Backend developer.
 
 
